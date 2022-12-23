@@ -1,0 +1,11 @@
+C:\Users\youss\OneDrive\Desktop\SortingAlgorithims\SortingAlgorithims\bin\Debug\SortingAlgorithims.exe.config
+C:\Users\youss\OneDrive\Desktop\SortingAlgorithims\SortingAlgorithims\bin\Debug\SortingAlgorithims.exe
+C:\Users\youss\OneDrive\Desktop\SortingAlgorithims\SortingAlgorithims\bin\Debug\SortingAlgorithims.pdb
+C:\Users\youss\OneDrive\Desktop\SortingAlgorithims\SortingAlgorithims\obj\Debug\SortingAlgoritims.csproj.AssemblyReference.cache
+C:\Users\youss\OneDrive\Desktop\SortingAlgorithims\SortingAlgorithims\obj\Debug\SortingAlgoritims.csproj.SuggestedBindingRedirects.cache
+C:\Users\youss\OneDrive\Desktop\SortingAlgorithims\SortingAlgorithims\obj\Debug\SortingAlgorithims.SortingAlgoritimusForm.resources
+C:\Users\youss\OneDrive\Desktop\SortingAlgorithims\SortingAlgorithims\obj\Debug\SortingAlgorithims.Properties.Resources.resources
+C:\Users\youss\OneDrive\Desktop\SortingAlgorithims\SortingAlgorithims\obj\Debug\SortingAlgoritims.csproj.GenerateResource.cache
+C:\Users\youss\OneDrive\Desktop\SortingAlgorithims\SortingAlgorithims\obj\Debug\SortingAlgoritims.csproj.CoreCompileInputs.cache
+C:\Users\youss\OneDrive\Desktop\SortingAlgorithims\SortingAlgorithims\obj\Debug\SortingAlgorithims.exe
+C:\Users\youss\OneDrive\Desktop\SortingAlgorithims\SortingAlgorithims\obj\Debug\SortingAlgorithims.pdb
